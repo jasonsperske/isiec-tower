@@ -1,0 +1,29 @@
+{
+  "name": "isiec-tower",
+  "version": "1.0.0",
+  "description": "In the distant future, in a long lost city, a single elecronics store is open for business.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "future",
+    "retro",
+    "game",
+    "rpg",
+    "real"
+  ],
+  "author": "Jason Sperske <jason@sperske.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.2",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10",
+    "vue-tsc": "^1.8.27"
+  },
+  "dependencies": {
+    "vue": "^3.4.3"
+  }
+}
